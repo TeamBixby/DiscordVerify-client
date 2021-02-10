@@ -1,0 +1,22 @@
+{
+  "name": "discord-verify-client",
+  "version": "1.0.0",
+  "description": "Discord verify client for PocketMine-MP",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TeamBixby/DiscordVerify-client.git"
+  },
+  "author": "alvin0319",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TeamBixby/DiscordVerify-client/issues"
+  },
+  "homepage": "https://github.com/TeamBixby/DiscordVerify-client#readme",
+  "dependencies": {
+    "discord.js": "^12.5.1"
+  }
+}

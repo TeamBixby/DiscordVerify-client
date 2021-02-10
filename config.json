@@ -1,0 +1,9 @@
+{
+  "verify_command": "/verify",
+  "bot_token": "",
+  "password": "",
+  "bind_port": 0,
+  "target_host": "127.0.0.1",
+  "target_port": 0,
+  "activity_name": "Playing my server!"
+}
