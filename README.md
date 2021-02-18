@@ -1,4 +1,4 @@
-<img align="center" alt="" width="100" height="auto" src="https://raw.githubusercontent.com/TeamBixby/DiscordVerify-client/master/assets/icon.png">
+<p align="center"><img alt="" width="100" height="auto" src="https://raw.githubusercontent.com/TeamBixby/DiscordVerify-client/master/assets/icon.png"></p>
 <h1>DiscordVerify-client :: Advanced Discord Bot</h1>
 An advanced Discord bot to connect PocketMine server and Discord.
 
