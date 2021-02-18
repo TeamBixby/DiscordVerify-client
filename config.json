@@ -1,5 +1,5 @@
 {
-  "verify_command": "/verify",
+  "verify_command": "?verify",
   "bot_token": "",
   "password": "",
   "bind_port": 0,
