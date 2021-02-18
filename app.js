@@ -44,13 +44,11 @@ client.on("message", async (message) => {
 
 		const roleExists = await message.member.roles.cache.find((role) => role.name === "verified");
 
-		/*
 		if(typeof roleExists !== "undefined"){
 			await message.reply("You are already verified");
 			return;
 		}
 
-		 */
 		if(chunk.length !== 2){
 			await message.reply("Usage: " + config.verify_command + " <token>");
 			return;
