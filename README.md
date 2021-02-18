@@ -3,7 +3,8 @@
 An advanced Discord bot to connect PocketMine server and Discord.
 
 <h1>:mailbox_closed: Installation</h1>
-Requirement: **Node.js 14 or higher**
+Requirement: <b>Node.js 14.0 or higher</b>
+
 You need to install my <b><a href="https://github.com/TeamBixby/DiscordVerify">DiscordVerify</a></b> plugin to use this Bot.
 
 Nukkit(CloudbusrtMC) version is not released, and also no plan to make it.
