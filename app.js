@@ -78,7 +78,7 @@ client.on("message", async (message) => {
 					player: player
 				},
 				password: config.password
-			}), config.target_port, config.targeT_host, () => {});
+			}), config.target_port, config.target_host, () => {});
 		}catch(e){
 			await message.reply("Failed to apply role");
 		}
