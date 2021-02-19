@@ -39,7 +39,7 @@ node app.js
 
 `bot_token` is the token of bot, NOT OAUTH client key.
 
-`password` is the password of socket, this will encrypt with `sha1` algorithm.
+`password` is the password of socket, must same as DiscordVerify plugin password. this will encrypt with `sha1` algorithm.
 
 `bind_port` is the port number that the socket will bind, maybe you need to use `sudo node app.js` to bind under the 1000 port.
 
